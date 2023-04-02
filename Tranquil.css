@@ -1,0 +1,24 @@
+/* IMPORT CSS FROM GITHUB */
+@import "https://monstrousdev.github.io/themes/phoenix-bundle/tranquil.css";
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
+
+Registered: Black Box Theme
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+===== CUSTOMIZABLE COLORS =====
+*/
+:root {
+  --roundness: 0px;
+  --main-color: #86adcc;
+  --hover-color: #3d5467;
+  --home-color: #eee;
+  --shadow: rgba(0,0,0,.4);
+  }
+
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+TROUBLESHOOTING: IF YOU NEED ANY HELP GO TO https://discord.gg/TeRQEPb
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/ 
